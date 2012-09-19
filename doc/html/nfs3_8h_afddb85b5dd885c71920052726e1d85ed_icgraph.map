@@ -1,6 +1,0 @@
-<map id="xdr_write3args" name="xdr_write3args">
-<area shape="rect" id="node3" href="$hsi__nfs3__write_8c.html#ace41b02d3125e8fdc1cf6ff5cb984e88" title="hsi_nfs3_write" alt="" coords="185,5,303,35"/>
-<area shape="rect" id="node7" href="$nfs3clnt_8c.html#a14f6e9146cebe7e56ff2521cc269026e" title="nfsproc3_write_3" alt="" coords="176,59,312,88"/>
-<area shape="rect" id="node9" href="$nfs3xdr_8c.html#ab91ab0fce7faaf9807d4a103302bb700" title="xdr_setaclargs" alt="" coords="184,112,304,141"/>
-<area shape="rect" id="node5" href="$hsx__fuse_8h.html#a39c8065cffd1f394d23a61e5e54d2c40" title="hsx_fuse_write" alt="" coords="360,5,483,35"/>
-</map>

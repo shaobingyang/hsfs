@@ -1,8 +1,0 @@
-<map id="hsx_fuse_unlink" name="hsx_fuse_unlink">
-<area shape="rect" id="node3" href="$hsi__nfs3_8h.html#a8e49667185e4889b10bdfbaa19c21565" title="Remove a file." alt="" coords="180,85,297,115"/>
-<area shape="rect" id="node13" href="$hsfs__fuse__table_8c.html#ae5c5d556ffe7dc05e3f0cdf1fe787d03" title="hsx_fuse_iget" alt="" coords="181,139,296,168"/>
-<area shape="rect" id="node5" href="$nfs3_8h.html#a31a027cf3d627af5a035875ad350472d" title="xdr_diropargs3" alt="" coords="376,5,493,35"/>
-<area shape="rect" id="node7" href="$nfs3_8h.html#aacd4eb57471a882dd84e186563825a15" title="xdr_wccstat3" alt="" coords="377,59,492,88"/>
-<area shape="rect" id="node9" href="$hsi__nfs3_8h.html#abc91dab39b4b89f78433478d0e0b9033" title="hsi_rpc_stat_to_errno" alt="" coords="351,112,519,141"/>
-<area shape="rect" id="node11" href="$hsi__nfs3_8h.html#ad807dbc1de023443dab35018a12f9fe4" title="hsi_nfs3_stat_to_errno" alt="" coords="348,165,521,195"/>
-</map>

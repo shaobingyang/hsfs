@@ -1,9 +1,0 @@
-<map id="getfsfile" name="getfsfile">
-<area shape="rect" id="node3" href="$fstab_8h.html#a11b2a7ea0959845bcc4976cbbbb32892" title="fstab_head" alt="" coords="135,49,231,78"/>
-<area shape="rect" id="node5" href="$fstab_8c.html#ab985185470de0c02e109ff8de146fad4" title="read_fstab" alt="" coords="281,49,375,78"/>
-<area shape="rect" id="node7" href="$nfs__mntent_8h.html#a200a1b106161838e1eb7c97aca0994c9" title="nfs_setmntent" alt="" coords="425,22,548,52"/>
-<area shape="rect" id="node13" href="$xcommon_8c.html#ad3b60fb16a728e8734d256cadbe2f308" title="nfs_error" alt="" coords="447,76,527,105"/>
-<area shape="rect" id="node9" href="$xcommon_8c.html#a42ccfa6fc49cc4ce90cc44cd05052490" title="xmalloc" alt="" coords="751,24,823,53"/>
-<area shape="rect" id="node11" href="$xcommon_8c.html#a31c8e4cd784d16e28687ee2f10b80028" title="xstrdup" alt="" coords="613,22,685,52"/>
-<area shape="rect" id="node15" href="$xcommon_8c.html#a1c2faee531a084da9dbd9e2155f86ec2" title="xstrconcat2" alt="" coords="597,76,701,105"/>
-</map>

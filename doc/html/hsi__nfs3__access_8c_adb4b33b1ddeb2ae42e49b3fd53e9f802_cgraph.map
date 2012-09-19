@@ -1,6 +1,0 @@
-<map id="hsi_nfs3_access" name="hsi_nfs3_access">
-<area shape="rect" id="node3" href="$hsi__nfs3_8h.html#ad807dbc1de023443dab35018a12f9fe4" title="hsi_nfs3_stat_to_errno" alt="" coords="185,5,359,35"/>
-<area shape="rect" id="node5" href="$hsi__nfs3_8h.html#abc91dab39b4b89f78433478d0e0b9033" title="hsi_rpc_stat_to_errno" alt="" coords="188,59,356,88"/>
-<area shape="rect" id="node7" href="$nfs3_8h.html#a4b71009f7cc427fe9a1598dab702a9b5" title="xdr_access3args" alt="" coords="205,112,339,141"/>
-<area shape="rect" id="node9" href="$nfs3_8h.html#a1123e089260f199b3c51f84739235a0e" title="xdr_access3res" alt="" coords="209,165,335,195"/>
-</map>

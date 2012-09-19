@@ -1,7 +1,0 @@
-<map id="xdr_setattr3args" name="xdr_setattr3args">
-<area shape="rect" id="node3" href="$hsi__nfs3__setattr_8c.html#aad72c781b87aac7d92ad9c14a27547f7" title="hsi_nfs3_setattr" alt="" coords="200,32,331,61"/>
-<area shape="rect" id="node11" href="$nfs3clnt_8c.html#a458958b28a7fcd84ec5a51925ee2d5a9" title="nfsproc3_setattr_3" alt="" coords="191,85,340,115"/>
-<area shape="rect" id="node5" href="$hsx__fuse_8h.html#a5b00eb1f00552d31bfae7fb19eca5899" title="hsx_fuse_setattr" alt="" coords="389,5,528,35"/>
-<area shape="rect" id="node7" href="$hsi__nfs3__create_8c.html#a6647ce2530e399a1b59e9fd054e2d49b" title="hsi_nfs3_create" alt="" coords="395,59,523,88"/>
-<area shape="rect" id="node9" href="$hsx__fuse_8h.html#a0f512cf6f3a9726c19002ec100c2f41b" title="hsx_fuse_create" alt="" coords="577,59,711,88"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="hsi_nfs3_fsinfo" name="hsi_nfs3_fsinfo">
-<area shape="rect" id="node3" href="$hsi__nfs3_8h.html#ad807dbc1de023443dab35018a12f9fe4" title="hsi_nfs3_stat_to_errno" alt="" coords="175,5,348,35"/>
-<area shape="rect" id="node5" href="$hsi__nfs3_8h.html#abc91dab39b4b89f78433478d0e0b9033" title="hsi_rpc_stat_to_errno" alt="" coords="177,59,345,88"/>
-<area shape="rect" id="node7" href="$nfs3_8h.html#a1e7d29e49d187905faf8692d330d3ea1" title="xdr_fsinfo3res" alt="" coords="204,112,319,141"/>
-<area shape="rect" id="node9" href="$nfs3_8h.html#a30f1ff336188577ae854d6e0de509ad9" title="xdr_nfs_fh3" alt="" coords="212,165,311,195"/>
-</map>

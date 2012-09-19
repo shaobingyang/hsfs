@@ -1,7 +1,0 @@
-<map id="nfs_setmntent" name="nfs_setmntent">
-<area shape="rect" id="node3" href="$fstab_8c.html#ab985185470de0c02e109ff8de146fad4" title="read_fstab" alt="" coords="189,32,283,61"/>
-<area shape="rect" id="node11" href="$fstab_8c.html#aaa6339edb309a742bcae900bf5fdec4b" title="update_mtab" alt="" coords="180,85,292,115"/>
-<area shape="rect" id="node5" href="$fstab_8c.html#a89757f55f5da27d600ddbca36d686f6e" title="fstab_head" alt="" coords="343,32,439,61"/>
-<area shape="rect" id="node7" href="$fstab_8c.html#af0f3e8a6ae95adcdfe7154f7c679ac7c" title="getfsfile" alt="" coords="495,5,572,35"/>
-<area shape="rect" id="node9" href="$fstab_8c.html#a32ed78a7baeda8209c4265df7d3fd983" title="getfsspec" alt="" coords="488,59,579,88"/>
-</map>

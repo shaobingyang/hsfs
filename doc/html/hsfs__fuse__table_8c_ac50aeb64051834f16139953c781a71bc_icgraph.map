@@ -1,8 +1,0 @@
-<map id="hsx_fuse_itable_del" name="hsx_fuse_itable_del">
-<area shape="rect" id="node3" href="$hsi__nfs3__mount_8c.html#ac9e401e87cff18a157f3ccc45ee2b2c0" title="hsx_fuse_unmount" alt="" coords="209,68,356,97"/>
-<area shape="rect" id="node5" href="$hsfs__main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="407,68,460,97"/>
-<area shape="rect" id="node7" href="$hsi__nfs3__mkdir_8c.html#a4cf16ddc5c613a0dd1698d87fc5e1004" title="hsi_nfs3_mkdir" alt="" coords="511,29,628,59"/>
-<area shape="rect" id="node12" href="$hsi__nfs3__rmdir_8c.html#a63eeccafd4dbd6d78ee51291d67e726d" title="hsi_nfs3_rmdir" alt="" coords="512,107,627,136"/>
-<area shape="rect" id="node9" href="$hsx__fuse_8h.html#a0058deae48151a03bc053c791766211e" title="hsx_fuse_mkdir" alt="" coords="679,29,801,59"/>
-<area shape="rect" id="node14" href="$hsx__fuse_8h.html#aa8d24460dee0c90741e06ea0abf58624" title="hsx_fuse_rmdir" alt="" coords="679,107,801,136"/>
-</map>

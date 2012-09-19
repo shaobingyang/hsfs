@@ -1,6 +1,0 @@
-<map id="xdr_mountlist" name="xdr_mountlist">
-<area shape="rect" id="node3" href="$mount__clnt_8c.html#a3aa9a8c59cf277bd576e610590035767" title="mountproc3_dump_3" alt="" coords="168,5,331,35"/>
-<area shape="rect" id="node5" href="$mount__clnt_8c.html#a4353f9e9f87bf783cae2f9beb1e2c64f" title="mountproc_dump_1" alt="" coords="172,59,327,88"/>
-<area shape="rect" id="node7" href="$mount__clnt_8c.html#ac93f9635def41fdd150ac9894eba6cb9" title="mountproc_dump_2" alt="" coords="172,112,327,141"/>
-<area shape="rect" id="node9" href="$mount__xdr_8c.html#a0acb0a5159a4be0cefa1a30bde53a91f" title="xdr_mountbody" alt="" coords="187,165,312,195"/>
-</map>

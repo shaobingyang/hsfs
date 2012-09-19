@@ -1,8 +1,0 @@
-<map id="hsx_fuse_write" name="hsx_fuse_write">
-<area shape="rect" id="node3" href="$hsi__nfs3_8h.html#a893dd6ffb3beaaeefe3af44bc3cceec5" title="hsi_nfs3_write" alt="" coords="176,85,293,115"/>
-<area shape="rect" id="node13" href="$hsfs__fuse__table_8c.html#ae5c5d556ffe7dc05e3f0cdf1fe787d03" title="hsx_fuse_iget" alt="" coords="177,139,292,168"/>
-<area shape="rect" id="node5" href="$hsi__nfs3_8h.html#ad807dbc1de023443dab35018a12f9fe4" title="hsi_nfs3_stat_to_errno" alt="" coords="343,5,516,35"/>
-<area shape="rect" id="node7" href="$hsi__nfs3_8h.html#abc91dab39b4b89f78433478d0e0b9033" title="hsi_rpc_stat_to_errno" alt="" coords="345,59,513,88"/>
-<area shape="rect" id="node9" href="$nfs3_8h.html#afddb85b5dd885c71920052726e1d85ed" title="xdr_write3args" alt="" coords="369,112,489,141"/>
-<area shape="rect" id="node11" href="$nfs3_8h.html#a929b6533023edb2d3afe46ae2084a04c" title="xdr_write3res" alt="" coords="372,165,487,195"/>
-</map>

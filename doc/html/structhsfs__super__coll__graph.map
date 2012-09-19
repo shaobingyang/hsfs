@@ -1,8 +1,0 @@
-<map id="hsfs_super" name="hsfs_super">
-<area shape="rect" id="node4" href="$structhsfs__inode.html" title="hsfs_inode" alt="" coords="119,232,209,261"/>
-<area shape="rect" id="node2" href="$structnfstime3.html" title="nfstime3" alt="" coords="56,5,139,35"/>
-<area shape="rect" id="node6" href="$structfattr3.html" title="fattr3" alt="" coords="220,136,281,165"/>
-<area shape="rect" id="node15" href="$structhsfs__table.html" title="hsfs_table" alt="" coords="11,328,101,357"/>
-<area shape="rect" id="node9" href="$structspecdata3.html" title="specdata3" alt="" coords="204,5,297,35"/>
-<area shape="rect" id="node13" href="$structnfs__fh3.html" title="nfs_fh3" alt="" coords="127,136,196,165"/>
-</map>

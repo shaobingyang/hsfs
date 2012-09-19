@@ -1,6 +1,0 @@
-<map id="hsi_nfs3_rename" name="hsi_nfs3_rename">
-<area shape="rect" id="node3" href="$hsi__nfs3_8h.html#ad807dbc1de023443dab35018a12f9fe4" title="hsi_nfs3_stat_to_errno" alt="" coords="191,5,364,35"/>
-<area shape="rect" id="node5" href="$hsi__nfs3_8h.html#abc91dab39b4b89f78433478d0e0b9033" title="hsi_rpc_stat_to_errno" alt="" coords="193,59,361,88"/>
-<area shape="rect" id="node7" href="$nfs3_8h.html#a2bd101c8f91686cce4971b38e084ff09" title="xdr_rename3args" alt="" coords="208,112,347,141"/>
-<area shape="rect" id="node9" href="$nfs3_8h.html#a2491080a685aaa05f193374719b54390" title="xdr_rename3res" alt="" coords="212,165,343,195"/>
-</map>

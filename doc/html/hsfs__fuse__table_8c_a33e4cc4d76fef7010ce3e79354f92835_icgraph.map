@@ -1,0 +1,9 @@
+<map id="hsx_fuse_idel" name="hsx_fuse_idel">
+<area shape="rect" id="node3" href="$hsx__fuse_8h.html#a45b22e240ff921076ba9834606ad280b" title="hsx_fuse_forget" alt="" coords="175,15,305,44"/>
+<area shape="rect" id="node5" href="$hsi__nfs3__mount_8c.html#ac9e401e87cff18a157f3ccc45ee2b2c0" title="hsx_fuse_unmount" alt="" coords="167,68,313,97"/>
+<area shape="rect" id="node7" href="$hsfs__main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="364,68,417,97"/>
+<area shape="rect" id="node9" href="$hsi__nfs3__mkdir_8c.html#a4cf16ddc5c613a0dd1698d87fc5e1004" title="hsi_nfs3_mkdir" alt="" coords="468,29,585,59"/>
+<area shape="rect" id="node14" href="$hsi__nfs3__rmdir_8c.html#a63eeccafd4dbd6d78ee51291d67e726d" title="hsi_nfs3_rmdir" alt="" coords="469,107,584,136"/>
+<area shape="rect" id="node11" href="$hsx__fuse_8h.html#a0058deae48151a03bc053c791766211e" title="hsx_fuse_mkdir" alt="" coords="636,29,759,59"/>
+<area shape="rect" id="node16" href="$hsx__fuse_8h.html#aa8d24460dee0c90741e06ea0abf58624" title="hsx_fuse_rmdir" alt="" coords="636,107,759,136"/>
+</map>

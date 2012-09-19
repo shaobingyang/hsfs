@@ -1,0 +1,10 @@
+<map id="hsx_fuse_setattr" name="hsx_fuse_setattr">
+<area shape="rect" id="node3" href="$hsi__nfs3_8h.html#a9882dfc63eb79cb66de3832a02646639" title="hsi_nfs3_fattr2stat" alt="" coords="195,32,344,61"/>
+<area shape="rect" id="node5" href="$hsi__nfs3_8h.html#aad72c781b87aac7d92ad9c14a27547f7" title="hsi_nfs3_setattr" alt="" coords="204,85,335,115"/>
+<area shape="rect" id="node15" href="$hsi__nfs3_8h.html#acdb6af3c4f06bb18b7a56106198ffa65" title="hsi_nfs3_stat2sattr" alt="" coords="193,139,345,168"/>
+<area shape="rect" id="node17" href="$hsfs__fuse__table_8c.html#ae5c5d556ffe7dc05e3f0cdf1fe787d03" title="hsx_fuse_iget" alt="" coords="212,192,327,221"/>
+<area shape="rect" id="node7" href="$nfs3_8h.html#a3be0de89588acc81d8ef3f489dfa7944" title="xdr_setattr3args" alt="" coords="415,5,551,35"/>
+<area shape="rect" id="node9" href="$nfs3_8h.html#aacd4eb57471a882dd84e186563825a15" title="xdr_wccstat3" alt="" coords="425,59,540,88"/>
+<area shape="rect" id="node11" href="$hsi__nfs3_8h.html#abc91dab39b4b89f78433478d0e0b9033" title="hsi_rpc_stat_to_errno" alt="" coords="399,112,567,141"/>
+<area shape="rect" id="node13" href="$hsi__nfs3_8h.html#ad807dbc1de023443dab35018a12f9fe4" title="hsi_nfs3_stat_to_errno" alt="" coords="396,165,569,195"/>
+</map>

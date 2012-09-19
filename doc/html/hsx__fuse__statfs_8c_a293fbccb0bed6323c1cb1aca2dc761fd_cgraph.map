@@ -1,0 +1,8 @@
+<map id="hsx_fuse_statfs" name="hsx_fuse_statfs">
+<area shape="rect" id="node3" href="$hsi__nfs3_8h.html#abb43d1886c8d91bc4ef76fc9a0d5165c" title="hsi_nfs3_statfs" alt="" coords="193,85,316,115"/>
+<area shape="rect" id="node13" href="$hsx__fuse__statfs_8c.html#a81cce4583baecf60a7797d8c2956a156" title="hsi_super2statvfs" alt="" coords="184,139,325,168"/>
+<area shape="rect" id="node5" href="$nfs3_8h.html#a30f1ff336188577ae854d6e0de509ad9" title="xdr_nfs_fh3" alt="" coords="412,5,511,35"/>
+<area shape="rect" id="node7" href="$nfs3_8h.html#a2c149899183ba347e07accea045a5fed" title="xdr_fsstat3res" alt="" coords="401,59,521,88"/>
+<area shape="rect" id="node9" href="$hsi__nfs3_8h.html#abc91dab39b4b89f78433478d0e0b9033" title="hsi_rpc_stat_to_errno" alt="" coords="377,112,545,141"/>
+<area shape="rect" id="node11" href="$hsi__nfs3_8h.html#ad807dbc1de023443dab35018a12f9fe4" title="hsi_nfs3_stat_to_errno" alt="" coords="375,165,548,195"/>
+</map>

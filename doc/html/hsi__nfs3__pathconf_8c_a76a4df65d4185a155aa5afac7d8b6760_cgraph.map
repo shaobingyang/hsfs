@@ -1,0 +1,6 @@
+<map id="hsi_nfs3_pathconf" name="hsi_nfs3_pathconf">
+<area shape="rect" id="node3" href="$hsi__nfs3_8h.html#ad807dbc1de023443dab35018a12f9fe4" title="hsi_nfs3_stat_to_errno" alt="" coords="199,5,372,35"/>
+<area shape="rect" id="node5" href="$hsi__nfs3_8h.html#abc91dab39b4b89f78433478d0e0b9033" title="hsi_rpc_stat_to_errno" alt="" coords="201,59,369,88"/>
+<area shape="rect" id="node7" href="$nfs3_8h.html#a30f1ff336188577ae854d6e0de509ad9" title="xdr_nfs_fh3" alt="" coords="236,112,335,141"/>
+<area shape="rect" id="node9" href="$nfs3_8h.html#a54d866b833e0a5e467da82efcc19aa9f" title="xdr_pathconf3res" alt="" coords="216,165,355,195"/>
+</map>

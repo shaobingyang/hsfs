@@ -1,0 +1,7 @@
+<map id="xdr_nfstime3" name="xdr_nfstime3">
+<area shape="rect" id="node3" href="$nfs3xdr_8c.html#a8fe26d83b3ddcfed5828ce6e5e201d2c" title="xdr_fattr3" alt="" coords="185,5,276,35"/>
+<area shape="rect" id="node5" href="$nfs3xdr_8c.html#aa9da6b1bd7a3475089359277195f020d" title="xdr_fsinfo3resok" alt="" coords="165,59,296,88"/>
+<area shape="rect" id="node7" href="$nfs3xdr_8c.html#a0d48aa0ae7146135ee78c6d6bae5fb94" title="xdr_sattrguard3" alt="" coords="167,112,295,141"/>
+<area shape="rect" id="node9" href="$nfs3xdr_8c.html#a3f8a8335115f7f26880c946a001136c4" title="xdr_set_time" alt="" coords="175,165,287,195"/>
+<area shape="rect" id="node11" href="$nfs3xdr_8c.html#a090a421566acee424f784c2eef894bff" title="xdr_wcc_attr" alt="" coords="176,219,285,248"/>
+</map>

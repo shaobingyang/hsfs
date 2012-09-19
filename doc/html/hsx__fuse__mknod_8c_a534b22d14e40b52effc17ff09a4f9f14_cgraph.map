@@ -1,0 +1,13 @@
+<map id="hsx_fuse_mknod" name="hsx_fuse_mknod">
+<area shape="rect" id="node3" href="$hsi__nfs3_8h.html#a67df907a253f134ff741af7bb3474932" title="hsi_nfs3_mknod" alt="" coords="196,139,321,168"/>
+<area shape="rect" id="node19" href="$hsfs__fuse__table_8c.html#ae5c5d556ffe7dc05e3f0cdf1fe787d03" title="hsx_fuse_iget" alt="" coords="621,272,736,301"/>
+<area shape="rect" id="node21" href="$hsx__fuse__fill__reply_8c.html#ab97672c5ef877ee6ae71420baa7a34aa" title="hsx_fuse_fill_reply" alt="" coords="188,323,329,352"/>
+<area shape="rect" id="node5" href="$nfs3_8h.html#ad56faf737e8aac24f1b503b9e9dd923d" title="xdr_mknod3args" alt="" coords="401,5,532,35"/>
+<area shape="rect" id="node7" href="$nfs3_8h.html#aa8f80d80c080971dbb89b304f610c895" title="xdr_diropres3" alt="" coords="412,59,521,88"/>
+<area shape="rect" id="node9" href="$hsi__nfs3_8h.html#abc91dab39b4b89f78433478d0e0b9033" title="hsi_rpc_stat_to_errno" alt="" coords="383,112,551,141"/>
+<area shape="rect" id="node11" href="$hsi__nfs3_8h.html#ad807dbc1de023443dab35018a12f9fe4" title="hsi_nfs3_stat_to_errno" alt="" coords="380,165,553,195"/>
+<area shape="rect" id="node13" href="$hsfs__fuse__table_8c.html#aece5cbc6a2e296b82cc3159e3500dab6" title="hsi_nfs3_ifind" alt="" coords="412,219,521,248"/>
+<area shape="rect" id="node15" href="$hsfs__fuse__table_8c.html#acdf872a9d73c471bccf2de1e8d3bc124" title="hsi_nfs3_alloc_node" alt="" coords="603,165,755,195"/>
+<area shape="rect" id="node17" href="$hsfs__fuse__table_8c.html#a4ea3b8a4f17867b955ff8bbfab8790ac" title="hsx_fuse_iadd" alt="" coords="621,219,736,248"/>
+<area shape="rect" id="node23" href="$hsi__nfs3_8h.html#a9882dfc63eb79cb66de3832a02646639" title="hsi_nfs3_fattr2stat" alt="" coords="392,323,541,352"/>
+</map>

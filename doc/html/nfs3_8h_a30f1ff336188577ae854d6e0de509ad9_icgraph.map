@@ -1,0 +1,26 @@
+<map id="xdr_nfs_fh3" name="xdr_nfs_fh3">
+<area shape="rect" id="node3" href="$hsi__nfs3__fsinfo_8c.html#a497c6b6c458d553b40e33b58407441da" title="hsi_nfs3_fsinfo" alt="" coords="175,5,292,35"/>
+<area shape="rect" id="node5" href="$hsi__nfs3__getattr_8c.html#a7bc6b64bea249060f250bd0d7ad8c633" title="hsi_nfs3_getattr" alt="" coords="167,59,300,88"/>
+<area shape="rect" id="node9" href="$hsi__nfs3__pathconf_8c.html#a76a4df65d4185a155aa5afac7d8b6760" title="hsi_nfs3_pathconf" alt="" coords="163,112,304,141"/>
+<area shape="rect" id="node11" href="$hsi__nfs3__readlink_8c.html#a982bf9e70d1ebddeadcf736c6820ae37" title="hsi_nfs3_readlink" alt="" coords="167,165,300,195"/>
+<area shape="rect" id="node15" href="$hsi__nfs3__statfs_8c.html#abb43d1886c8d91bc4ef76fc9a0d5165c" title="hsi_nfs3_statfs" alt="" coords="172,219,295,248"/>
+<area shape="rect" id="node19" href="$nfs3clnt_8c.html#a6cc231c0560bf4e9fd3d1124eb548e16" title="nfsproc3_fsinfo_3" alt="" coords="165,272,301,301"/>
+<area shape="rect" id="node21" href="$nfs3clnt_8c.html#aae4fb3ac2e023062cd19fe3408837d4e" title="nfsproc3_fsstat_3" alt="" coords="163,325,304,355"/>
+<area shape="rect" id="node23" href="$nfs3clnt_8c.html#ae09cc3f983f70c0747e6d088f7cbf991" title="nfsproc3_getattr_3" alt="" coords="157,379,309,408"/>
+<area shape="rect" id="node25" href="$nfs3clnt_8c.html#a9fe2713a9b272ce18cfb267a7bf87391" title="nfsproc3_pathconf_3" alt="" coords="153,432,313,461"/>
+<area shape="rect" id="node27" href="$nfs3clnt_8c.html#ace79ce38a40890029add83f12be1b363" title="nfsproc3_readlink_3" alt="" coords="157,485,309,515"/>
+<area shape="rect" id="node29" href="$nfs3xdr_8c.html#ac7b9b3b4f7d42a8e28a18c239d23fc7e" title="xdr_access3args" alt="" coords="167,539,300,568"/>
+<area shape="rect" id="node31" href="$nfs3xdr_8c.html#a2bbd721672ed4d8a185d5dad62f17af1" title="xdr_commit3args" alt="" coords="164,592,303,621"/>
+<area shape="rect" id="node33" href="$nfs3xdr_8c.html#ac890eff1757a3ded95c1528f7ed4bbc7" title="xdr_diropargs3" alt="" coords="175,645,292,675"/>
+<area shape="rect" id="node35" href="$nfs3xdr_8c.html#ac9e9aede8bad01b2f147740bbfbf5b05" title="xdr_link3args" alt="" coords="180,699,287,728"/>
+<area shape="rect" id="node37" href="$nfs3xdr_8c.html#a25d9aedc6800483c5e3cba92f8438186" title="xdr_lookup3resok" alt="" coords="165,752,301,781"/>
+<area shape="rect" id="node39" href="$nfs3xdr_8c.html#aed70560cca6f688b9fa13f45e4e3fee5" title="xdr_post_op_fh3" alt="" coords="168,805,299,835"/>
+<area shape="rect" id="node41" href="$nfs3xdr_8c.html#aadbe5d1c8c28962b083e3f487b8985e2" title="xdr_read3args" alt="" coords="176,859,291,888"/>
+<area shape="rect" id="node43" href="$nfs3xdr_8c.html#acac26355091223f07885370b7adf5da3" title="xdr_readdir3args" alt="" coords="168,912,299,941"/>
+<area shape="rect" id="node45" href="$nfs3xdr_8c.html#a7f913787ba057c7408d0b1470efdc4de" title="xdr_readdirplus3args" alt="" coords="155,965,312,995"/>
+<area shape="rect" id="node47" href="$nfs3xdr_8c.html#a526f3436bc32d924187e336eb2de3825" title="xdr_setattr3args" alt="" coords="165,1019,301,1048"/>
+<area shape="rect" id="node49" href="$nfs3xdr_8c.html#ab32da2adaf184f73f45db1cd3dff9a6c" title="xdr_write3args" alt="" coords="173,1072,293,1101"/>
+<area shape="rect" id="node7" href="$hsx__fuse_8h.html#a4e4f2a1ad593ff38785d064dc02e3ac1" title="hsx_fuse_getattr" alt="" coords="363,59,501,88"/>
+<area shape="rect" id="node13" href="$hsx__fuse_8h.html#ae9faf62f558843913825a9266a8f02d9" title="hsx_fuse_readlink" alt="" coords="363,165,501,195"/>
+<area shape="rect" id="node17" href="$hsx__fuse_8h.html#a293fbccb0bed6323c1cb1aca2dc761fd" title="hsx_fuse_statfs" alt="" coords="368,219,496,248"/>
+</map>

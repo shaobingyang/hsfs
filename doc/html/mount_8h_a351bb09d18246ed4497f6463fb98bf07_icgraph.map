@@ -1,0 +1,8 @@
+<map id="xdr_exports" name="xdr_exports">
+<area shape="rect" id="node3" href="$mount__clnt_8c.html#ad27912442cf6acc8d197a02aa2c8e43d" title="mountproc3_export_3" alt="" coords="160,5,331,35"/>
+<area shape="rect" id="node5" href="$mount__clnt_8c.html#a77ab425e0221d79028d7341b8e3f4cf9" title="mountproc_export_1" alt="" coords="164,59,327,88"/>
+<area shape="rect" id="node7" href="$mount__clnt_8c.html#aed962bedb33827642887e0497765e720" title="mountproc_export_2" alt="" coords="164,112,327,141"/>
+<area shape="rect" id="node9" href="$mount__clnt_8c.html#a21ffdf83d641fb6f68c38cb3747ec5da" title="mountproc_exportall_1" alt="" coords="157,165,333,195"/>
+<area shape="rect" id="node11" href="$mount__clnt_8c.html#a9756e937e6915d47365a22b97673f1f0" title="mountproc_exportall_2" alt="" coords="157,219,333,248"/>
+<area shape="rect" id="node13" href="$mount__xdr_8c.html#a4751c8b38dfc6348a280bc06c03cf94f" title="xdr_exportnode" alt="" coords="181,272,309,301"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="fstab_head" name="fstab_head">
+<area shape="rect" id="node3" href="$fstab_8c.html#ab985185470de0c02e109ff8de146fad4" title="read_fstab" alt="" coords="153,49,247,78"/>
+<area shape="rect" id="node5" href="$nfs__mntent_8h.html#a200a1b106161838e1eb7c97aca0994c9" title="nfs_setmntent" alt="" coords="297,22,420,52"/>
+<area shape="rect" id="node11" href="$xcommon_8c.html#ad3b60fb16a728e8734d256cadbe2f308" title="nfs_error" alt="" coords="319,76,399,105"/>
+<area shape="rect" id="node7" href="$xcommon_8c.html#a42ccfa6fc49cc4ce90cc44cd05052490" title="xmalloc" alt="" coords="623,24,695,53"/>
+<area shape="rect" id="node9" href="$xcommon_8c.html#a31c8e4cd784d16e28687ee2f10b80028" title="xstrdup" alt="" coords="485,22,557,52"/>
+<area shape="rect" id="node13" href="$xcommon_8c.html#a1c2faee531a084da9dbd9e2155f86ec2" title="xstrconcat2" alt="" coords="469,76,573,105"/>
+</map>

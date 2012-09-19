@@ -1,0 +1,15 @@
+<map id="hsi_nfs3_alloc_node" name="hsi_nfs3_alloc_node">
+<area shape="rect" id="node3" href="$hsi__nfs3_8h.html#a1af2439090fd065cd95fbceada3b39db" title="hsi_nfs3_ifind" alt="" coords="205,151,315,180"/>
+<area shape="rect" id="node5" href="$hsi__nfs3__create_8c.html#a6647ce2530e399a1b59e9fd054e2d49b" title="hsi_nfs3_create" alt="" coords="364,5,492,35"/>
+<area shape="rect" id="node9" href="$hsi__nfs3__link_8c.html#aa939dd9e32ce7c1accf67f4384bc7438" title="hsi_nfs3_link" alt="" coords="377,59,479,88"/>
+<area shape="rect" id="node13" href="$hsi__nfs3__lookup_8c.html#a2bee5303b54c7ad1d1328ed06299cfa1" title="hsi_nfs3_lookup" alt="" coords="367,112,489,141"/>
+<area shape="rect" id="node17" href="$hsi__nfs3__mkdir_8c.html#a4cf16ddc5c613a0dd1698d87fc5e1004" title="hsi_nfs3_mkdir" alt="" coords="369,189,487,219"/>
+<area shape="rect" id="node22" href="$hsi__nfs3__mknod_8c.html#a67df907a253f134ff741af7bb3474932" title="hsi_nfs3_mknod" alt="" coords="365,243,491,272"/>
+<area shape="rect" id="node26" href="$hsi__nfs3__symlink_8c.html#a4344c52fa2272572f8fb2724b9dd1756" title="hsi_nfs3_symlink" alt="" coords="363,296,493,325"/>
+<area shape="rect" id="node7" href="$hsx__fuse_8h.html#a0f512cf6f3a9726c19002ec100c2f41b" title="hsx_fuse_create" alt="" coords="544,5,677,35"/>
+<area shape="rect" id="node11" href="$hsx__fuse_8h.html#a76e99283eb655d82200c82db646fbb48" title="hsx_fuse_link" alt="" coords="556,59,665,88"/>
+<area shape="rect" id="node15" href="$hsx__fuse_8h.html#a44acd9949d6b2245b63116c503382c88" title="hsx_fuse_lookup" alt="" coords="545,112,676,141"/>
+<area shape="rect" id="node19" href="$hsx__fuse_8h.html#a0058deae48151a03bc053c791766211e" title="hsx_fuse_mkdir" alt="" coords="549,189,672,219"/>
+<area shape="rect" id="node24" href="$hsx__fuse_8h.html#a534b22d14e40b52effc17ff09a4f9f14" title="hsx_fuse_mknod" alt="" coords="545,243,676,272"/>
+<area shape="rect" id="node28" href="$hsx__fuse_8h.html#a12347e7b823de7ffe39fcf1b8676bd9b" title="hsx_fuse_symlink" alt="" coords="543,296,679,325"/>
+</map>

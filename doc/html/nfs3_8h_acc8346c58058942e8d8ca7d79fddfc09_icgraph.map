@@ -1,0 +1,24 @@
+<map id="xdr_post_op_attr" name="xdr_post_op_attr">
+<area shape="rect" id="node3" href="$nfs3xdr_8c.html#ac65c118604a9868eb31fac7eb87eda5b" title="xdr_access3res" alt="" coords="213,5,339,35"/>
+<area shape="rect" id="node5" href="$nfs3xdr_8c.html#aef4b00bafd3e2e5fbb46bc930a5c1332" title="xdr_access3resok" alt="" coords="205,59,347,88"/>
+<area shape="rect" id="node7" href="$nfs3xdr_8c.html#aa0e9a9c253958e2a0891b15f80b94758" title="xdr_diropres3ok" alt="" coords="213,112,339,141"/>
+<area shape="rect" id="node9" href="$nfs3xdr_8c.html#a4a53ac5e5522fffaa6217e1fae216040" title="xdr_entryplus3" alt="" coords="216,165,336,195"/>
+<area shape="rect" id="node11" href="$nfs3xdr_8c.html#a10e834edd2ce9939224767193ce98e56" title="xdr_fsinfo3res" alt="" coords="219,219,333,248"/>
+<area shape="rect" id="node13" href="$nfs3xdr_8c.html#aa9da6b1bd7a3475089359277195f020d" title="xdr_fsinfo3resok" alt="" coords="211,272,341,301"/>
+<area shape="rect" id="node15" href="$nfs3xdr_8c.html#aff64e1a647d430896e7ee24fdee83294" title="xdr_fsstat3res" alt="" coords="216,325,336,355"/>
+<area shape="rect" id="node17" href="$nfs3xdr_8c.html#a924074ef0ca5db8612e41f757101d5e8" title="xdr_fsstat3resok" alt="" coords="209,379,343,408"/>
+<area shape="rect" id="node19" href="$nfs3xdr_8c.html#a2b111efe3077c8fa48ecaacd116c0d3c" title="xdr_link3wcc" alt="" coords="223,432,329,461"/>
+<area shape="rect" id="node21" href="$nfs3xdr_8c.html#a9fb85915d4b4f520bc4f142061430a8c" title="xdr_lookup3res" alt="" coords="216,485,336,515"/>
+<area shape="rect" id="node23" href="$nfs3xdr_8c.html#a25d9aedc6800483c5e3cba92f8438186" title="xdr_lookup3resok" alt="" coords="208,539,344,568"/>
+<area shape="rect" id="node25" href="$nfs3xdr_8c.html#a8f8e4a40e4c0838b343fc00cf7089fc7" title="xdr_pathconf3res" alt="" coords="207,592,345,621"/>
+<area shape="rect" id="node27" href="$nfs3xdr_8c.html#a3571e49ca831cec00e227fefeb8c1aac" title="xdr_pathconf3resok" alt="" coords="199,645,353,675"/>
+<area shape="rect" id="node29" href="$nfs3xdr_8c.html#ab4b33d7fc44ab3494c92cc9f82afbbec" title="xdr_read3res" alt="" coords="221,699,331,728"/>
+<area shape="rect" id="node31" href="$nfs3xdr_8c.html#a76805b75f463fa24f12cb4dfd0d656aa" title="xdr_read3resok" alt="" coords="215,752,337,781"/>
+<area shape="rect" id="node33" href="$nfs3xdr_8c.html#a66a53c8d529741ab8034654745def586" title="xdr_readdir3res" alt="" coords="213,805,339,835"/>
+<area shape="rect" id="node35" href="$nfs3xdr_8c.html#a62df056745f151a8966ed1c667dd6f1b" title="xdr_readdir3resok" alt="" coords="207,859,345,888"/>
+<area shape="rect" id="node37" href="$nfs3xdr_8c.html#a1e1a53077e9ded3a04bf7c77a9fe759a" title="xdr_readdirplus3res" alt="" coords="201,912,351,941"/>
+<area shape="rect" id="node39" href="$nfs3xdr_8c.html#af4714c1bd3216c60c39d3a520a09a6ee" title="xdr_readdirplus3resok" alt="" coords="193,965,359,995"/>
+<area shape="rect" id="node41" href="$nfs3xdr_8c.html#a01fc2e5b90f657f27b18d93536edd5e3" title="xdr_readlink3res" alt="" coords="211,1019,341,1048"/>
+<area shape="rect" id="node43" href="$nfs3xdr_8c.html#ac7012697bfa1472034a88773426d4675" title="xdr_readlink3resok" alt="" coords="204,1072,348,1101"/>
+<area shape="rect" id="node45" href="$nfs3xdr_8c.html#a8cf3cf237afb8e6f5342497f7817e200" title="xdr_wcc_data" alt="" coords="219,1125,333,1155"/>
+</map>

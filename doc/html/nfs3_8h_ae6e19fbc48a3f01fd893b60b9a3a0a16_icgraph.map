@@ -1,0 +1,18 @@
+<map id="xdr_nfsstat3" name="xdr_nfsstat3">
+<area shape="rect" id="node3" href="$nfs3xdr_8c.html#ac65c118604a9868eb31fac7eb87eda5b" title="xdr_access3res" alt="" coords="173,5,299,35"/>
+<area shape="rect" id="node5" href="$nfs3xdr_8c.html#a9b184d13a1f6164b314bc561633b8fa7" title="xdr_commit3res" alt="" coords="171,59,301,88"/>
+<area shape="rect" id="node7" href="$nfs3xdr_8c.html#afb0ca8fca1bc8f80ea82049c16eea66e" title="xdr_diropres3" alt="" coords="181,112,291,141"/>
+<area shape="rect" id="node9" href="$nfs3xdr_8c.html#a10e834edd2ce9939224767193ce98e56" title="xdr_fsinfo3res" alt="" coords="179,165,293,195"/>
+<area shape="rect" id="node11" href="$nfs3xdr_8c.html#aff64e1a647d430896e7ee24fdee83294" title="xdr_fsstat3res" alt="" coords="176,219,296,248"/>
+<area shape="rect" id="node13" href="$nfs3xdr_8c.html#a9a0be53ab548a52a67fdbe2d8381a750" title="xdr_getattr3res" alt="" coords="171,272,301,301"/>
+<area shape="rect" id="node15" href="$nfs3xdr_8c.html#a96f4eebe7cb6a9e30104f0964d2a130a" title="xdr_link3res" alt="" coords="187,325,285,355"/>
+<area shape="rect" id="node17" href="$nfs3xdr_8c.html#a9fb85915d4b4f520bc4f142061430a8c" title="xdr_lookup3res" alt="" coords="176,379,296,408"/>
+<area shape="rect" id="node19" href="$nfs3xdr_8c.html#a8f8e4a40e4c0838b343fc00cf7089fc7" title="xdr_pathconf3res" alt="" coords="167,432,305,461"/>
+<area shape="rect" id="node21" href="$nfs3xdr_8c.html#ab4b33d7fc44ab3494c92cc9f82afbbec" title="xdr_read3res" alt="" coords="181,485,291,515"/>
+<area shape="rect" id="node23" href="$nfs3xdr_8c.html#a66a53c8d529741ab8034654745def586" title="xdr_readdir3res" alt="" coords="173,539,299,568"/>
+<area shape="rect" id="node25" href="$nfs3xdr_8c.html#a1e1a53077e9ded3a04bf7c77a9fe759a" title="xdr_readdirplus3res" alt="" coords="161,592,311,621"/>
+<area shape="rect" id="node27" href="$nfs3xdr_8c.html#a01fc2e5b90f657f27b18d93536edd5e3" title="xdr_readlink3res" alt="" coords="171,645,301,675"/>
+<area shape="rect" id="node29" href="$nfs3xdr_8c.html#a70a01c4631a6dcb97c1fda44dc9e8715" title="xdr_rename3res" alt="" coords="171,699,301,728"/>
+<area shape="rect" id="node31" href="$nfs3xdr_8c.html#a1180495d8fbe50cfc4b65c73e90adac8" title="xdr_wccstat3" alt="" coords="179,752,293,781"/>
+<area shape="rect" id="node33" href="$nfs3xdr_8c.html#aa92735ee7ac6b2650db9d318507f6bba" title="xdr_write3res" alt="" coords="179,805,293,835"/>
+</map>

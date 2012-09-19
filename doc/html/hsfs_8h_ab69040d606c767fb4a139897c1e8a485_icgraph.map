@@ -1,0 +1,10 @@
+<map id="hsfs_block_bits" name="hsfs_block_bits">
+<area shape="rect" id="node3" href="$hsi__nfs3__mount_8c.html#ae244c31ded7397c7a8a13afe60fd8ac1" title="hsfs_block_size" alt="" coords="177,68,300,97"/>
+<area shape="rect" id="node5" href="$hsi__nfs3__mount_8c.html#a6474377b9eaea8692aa828289fac9081" title="hsi_validate_mount_data" alt="" coords="351,68,540,97"/>
+<area shape="rect" id="node7" href="$hsi__nfs3__mount_8c.html#a44ec5a649bc87cd74f9daf4df967554f" title="hsx_fuse_mount" alt="" coords="591,68,721,97"/>
+<area shape="rect" id="node9" href="$hsfs__main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="772,68,825,97"/>
+<area shape="rect" id="node11" href="$hsi__nfs3__mkdir_8c.html#a4cf16ddc5c613a0dd1698d87fc5e1004" title="hsi_nfs3_mkdir" alt="" coords="876,29,993,59"/>
+<area shape="rect" id="node16" href="$hsi__nfs3__rmdir_8c.html#a63eeccafd4dbd6d78ee51291d67e726d" title="hsi_nfs3_rmdir" alt="" coords="877,107,992,136"/>
+<area shape="rect" id="node13" href="$hsx__fuse_8h.html#a0058deae48151a03bc053c791766211e" title="hsx_fuse_mkdir" alt="" coords="1044,29,1167,59"/>
+<area shape="rect" id="node18" href="$hsx__fuse_8h.html#aa8d24460dee0c90741e06ea0abf58624" title="hsx_fuse_rmdir" alt="" coords="1044,107,1167,136"/>
+</map>

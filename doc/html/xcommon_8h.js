@@ -1,0 +1,25 @@
+var xcommon_8h =
+[
+    [ "_MALLOC_H", "xcommon_8h.html#a5ef42d8834eb476c193fc2ad486f4e8e", null ],
+    [ "streq", "xcommon_8h.html#a43f151df79cd084a0fc2066e90fc1249", null ],
+    [ "EX_USAGE", "xcommon_8h.html#abbdf9290893d2876419c13b7b28f5d4e", null ],
+    [ "EX_SYSERR", "xcommon_8h.html#a87e45523b972510f1ad5a5ac03f6c6c1", null ],
+    [ "EX_SOFTWARE", "xcommon_8h.html#a587ae77ee5b3c931c10cb51c19053f11", null ],
+    [ "EX_USER", "xcommon_8h.html#a4720fdeac072f9657cec969e7219860a", null ],
+    [ "EX_FILEIO", "xcommon_8h.html#aceb08b199631159833ba07c70a15195e", null ],
+    [ "EX_FAIL", "xcommon_8h.html#a1098e206e95e5217b1bd9b83bf0e534d", null ],
+    [ "EX_SOMEOK", "xcommon_8h.html#aec9fec73ce3bfa8f732bf2da1265b39b", null ],
+    [ "EX_BG", "xcommon_8h.html#aeb869b88c8979f681854e6df03c44079", null ],
+    [ "canonicalize", "xcommon_8h.html#a3af2cd82f0514540487bcdb54b9a355d", null ],
+    [ "nfs_error", "xcommon_8h.html#ad3b60fb16a728e8734d256cadbe2f308", null ],
+    [ "xmalloc", "xcommon_8h.html#a42ccfa6fc49cc4ce90cc44cd05052490", null ],
+    [ "xrealloc", "xcommon_8h.html#a9f6bc6d637434a7cca469629ed0594ed", null ],
+    [ "xfree", "xcommon_8h.html#afca9b96f6a61eebbcdd7e6b3fc31ed97", null ],
+    [ "xstrdup", "xcommon_8h.html#a31c8e4cd784d16e28687ee2f10b80028", null ],
+    [ "xstrndup", "xcommon_8h.html#ae2eb416cff19e5aaa7be256d27fb6d77", null ],
+    [ "xstrconcat2", "xcommon_8h.html#a53083cd0bc51c06c5711c5fa843cc281", null ],
+    [ "xstrconcat3", "xcommon_8h.html#a5b8b86642aee5a9cddd725645e1094eb", null ],
+    [ "xstrconcat4", "xcommon_8h.html#a7e5f630c8cf760a007d61d84b423177d", null ],
+    [ "die", "xcommon_8h.html#a0818e62af58745e448f1a0cdae328e1e", null ],
+    [ "at_die", "xcommon_8h.html#a115ce574fe5cca364afa17c11067cb66", null ]
+];

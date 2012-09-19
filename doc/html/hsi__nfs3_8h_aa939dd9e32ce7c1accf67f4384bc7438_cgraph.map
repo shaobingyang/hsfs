@@ -1,0 +1,10 @@
+<map id="hsi_nfs3_link" name="hsi_nfs3_link">
+<area shape="rect" id="node3" href="$hsfs__fuse__table_8c.html#aece5cbc6a2e296b82cc3159e3500dab6" title="hsi_nfs3_ifind" alt="" coords="191,59,300,88"/>
+<area shape="rect" id="node11" href="$hsi__nfs3_8h.html#ad807dbc1de023443dab35018a12f9fe4" title="hsi_nfs3_stat_to_errno" alt="" coords="159,112,332,141"/>
+<area shape="rect" id="node13" href="$hsi__nfs3_8h.html#abc91dab39b4b89f78433478d0e0b9033" title="hsi_rpc_stat_to_errno" alt="" coords="161,165,329,195"/>
+<area shape="rect" id="node15" href="$nfs3_8h.html#a4b52792a6e2e00644718665330f3041f" title="xdr_link3args" alt="" coords="192,219,299,248"/>
+<area shape="rect" id="node17" href="$nfs3_8h.html#aced6fc275012eb2dafd699ab93af0820" title="xdr_link3res" alt="" coords="196,272,295,301"/>
+<area shape="rect" id="node5" href="$hsfs__fuse__table_8c.html#acdf872a9d73c471bccf2de1e8d3bc124" title="hsi_nfs3_alloc_node" alt="" coords="381,5,533,35"/>
+<area shape="rect" id="node7" href="$hsfs__fuse__table_8c.html#a4ea3b8a4f17867b955ff8bbfab8790ac" title="hsx_fuse_iadd" alt="" coords="400,59,515,88"/>
+<area shape="rect" id="node9" href="$hsfs__fuse__table_8c.html#ae5c5d556ffe7dc05e3f0cdf1fe787d03" title="hsx_fuse_iget" alt="" coords="400,112,515,141"/>
+</map>

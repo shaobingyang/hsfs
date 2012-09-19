@@ -1,0 +1,8 @@
+<map id="xdr_sattr3" name="xdr_sattr3">
+<area shape="rect" id="node3" href="$nfs3xdr_8c.html#a6e4a2c8cc753a5a84d9fdebf190372b6" title="xdr_createhow3" alt="" coords="151,5,281,35"/>
+<area shape="rect" id="node5" href="$nfs3xdr_8c.html#a6766471dec61146c0dffb2452fdb09a1" title="xdr_devicedata3" alt="" coords="149,59,283,88"/>
+<area shape="rect" id="node7" href="$nfs3xdr_8c.html#a8c8d0b33af85f8e4fcfae4d16f915e4b" title="xdr_mkdir3args" alt="" coords="155,112,277,141"/>
+<area shape="rect" id="node9" href="$nfs3xdr_8c.html#a1ea6475fd795592d3fb393ba822060fd" title="xdr_mknoddata3" alt="" coords="149,165,283,195"/>
+<area shape="rect" id="node11" href="$nfs3xdr_8c.html#a526f3436bc32d924187e336eb2de3825" title="xdr_setattr3args" alt="" coords="148,219,284,248"/>
+<area shape="rect" id="node13" href="$nfs3xdr_8c.html#a89183ad350a642ff709a43ca1e807125" title="xdr_symlinkdata3" alt="" coords="147,272,285,301"/>
+</map>

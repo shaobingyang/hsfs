@@ -1,0 +1,14 @@
+<map id="update_mtab" name="update_mtab">
+<area shape="rect" id="node3" href="$xcommon_8c.html#a9c7dab7e21aad8e4f343ba73120e245b" title="die" alt="" coords="416,11,459,41"/>
+<area shape="rect" id="node5" href="$fstab_8h.html#a5fb7622492bef6adfe03b62fa23c78c1" title="lock_mtab" alt="" coords="207,50,297,79"/>
+<area shape="rect" id="node8" href="$fstab_8h.html#a7ce6803a0833d2c6161b7abbb2d2b8dc" title="unlock_mtab" alt="" coords="384,90,491,119"/>
+<area shape="rect" id="node10" href="$fstab_8h.html#ae6a9c060b8d7e9e3089d414d8d1fba5c" title="mtab_does_not_exist" alt="" coords="168,154,336,183"/>
+<area shape="rect" id="node12" href="$fstab_8h.html#a5d4515344d22248b0cc5658b8f2014dc" title="mtab_is_writable" alt="" coords="184,207,320,237"/>
+<area shape="rect" id="node14" href="$nfs__mntent_8h.html#a70dbd367c242cd37b3be28947c9668d7" title="nfs_addmntent" alt="" coords="189,261,315,290"/>
+<area shape="rect" id="node16" href="$nfs__mntent_8h.html#a5acf4c55a359dc10b50a7e4632d23545" title="nfs_endmntent" alt="" coords="189,314,315,343"/>
+<area shape="rect" id="node18" href="$xcommon_8c.html#ad3b60fb16a728e8734d256cadbe2f308" title="nfs_error" alt="" coords="212,367,292,397"/>
+<area shape="rect" id="node22" href="$xcommon_8c.html#a42ccfa6fc49cc4ce90cc44cd05052490" title="xmalloc" alt="" coords="540,419,612,449"/>
+<area shape="rect" id="node24" href="$nfs__mntent_8h.html#a200a1b106161838e1eb7c97aca0994c9" title="nfs_setmntent" alt="" coords="191,471,313,501"/>
+<area shape="rect" id="node20" href="$xcommon_8c.html#a1c2faee531a084da9dbd9e2155f86ec2" title="xstrconcat2" alt="" coords="385,367,489,397"/>
+<area shape="rect" id="node27" href="$xcommon_8c.html#a31c8e4cd784d16e28687ee2f10b80028" title="xstrdup" alt="" coords="401,522,473,551"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="xdr_wcc_data" name="xdr_wcc_data">
+<area shape="rect" id="node3" href="$nfs3xdr_8c.html#a9b184d13a1f6164b314bc561633b8fa7" title="xdr_commit3res" alt="" coords="176,5,307,35"/>
+<area shape="rect" id="node5" href="$nfs3xdr_8c.html#a24955a9882221afe3755ef05396ce57e" title="xdr_commit3resok" alt="" coords="168,59,315,88"/>
+<area shape="rect" id="node7" href="$nfs3xdr_8c.html#afb0ca8fca1bc8f80ea82049c16eea66e" title="xdr_diropres3" alt="" coords="187,112,296,141"/>
+<area shape="rect" id="node9" href="$nfs3xdr_8c.html#aa0e9a9c253958e2a0891b15f80b94758" title="xdr_diropres3ok" alt="" coords="179,165,304,195"/>
+<area shape="rect" id="node11" href="$nfs3xdr_8c.html#a2b111efe3077c8fa48ecaacd116c0d3c" title="xdr_link3wcc" alt="" coords="188,219,295,248"/>
+<area shape="rect" id="node13" href="$nfs3xdr_8c.html#a7950f956ab2ab60890b3bf20d67b82a8" title="xdr_rename3wcc" alt="" coords="173,272,309,301"/>
+<area shape="rect" id="node15" href="$nfs3xdr_8c.html#a1180495d8fbe50cfc4b65c73e90adac8" title="xdr_wccstat3" alt="" coords="184,325,299,355"/>
+<area shape="rect" id="node17" href="$nfs3xdr_8c.html#aa92735ee7ac6b2650db9d318507f6bba" title="xdr_write3res" alt="" coords="184,379,299,408"/>
+<area shape="rect" id="node19" href="$nfs3xdr_8c.html#ad65bdd1edb50f310cd9220af4ff81141" title="xdr_write3resok" alt="" coords="177,432,305,461"/>
+</map>
